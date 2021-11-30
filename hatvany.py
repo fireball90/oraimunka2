@@ -5,3 +5,6 @@ hatvanyErtek=hatvanyAlap**kitevo
 print("-------------------------------------------")
 print("Az eredmény: "+str(hatvanyErtek))
 print("-------------------------------------------")
+
+
+#mészáros balázs

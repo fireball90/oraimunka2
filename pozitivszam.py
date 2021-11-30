@@ -6,3 +6,5 @@ while True:
         break
     else:
         print(str(pozitiv))
+
+#mészáros balázs
